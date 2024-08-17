@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Batuhan Balaban # the main title
 
-tagline: AWS Cloud Engineering, Serverless # it will display as the sub-title
+tagline: Sereverless Software Architect, Full-Stack Developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
  With over 13 years of deep-rooted experience in software development, I specialize in building cloud-native applications that leverage the power and flexibility of Serverless architecture and AWS Cloud. My focus is on crafting end-to-end solutions using modern tools like Node.js, TypeScript, React.js, and AWS CDK, ensuring that infrastructure is as agile and scalable as the code itself. Whether it's architecting resilient microservices or implementing Infrastructure as Code, I’m driven by the challenge of transforming complex requirements into streamlined, performant systems.
@@ -29,7 +29,7 @@ github:
   username: batuhanbalaban # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
