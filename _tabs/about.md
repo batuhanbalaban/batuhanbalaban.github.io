@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+![About](/assets/img/DevOps-Role-Engineer.webp)
 
 I'm Batuhan, `Sereverless Software Architect` and `Full-Stack Developer` from London.
 
